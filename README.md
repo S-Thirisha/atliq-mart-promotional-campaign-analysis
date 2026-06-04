@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-AtliQ Mart, a leading retail chain operating across Southern India, conducted promotional campaigns during Diwali 2023 and Sankranti 2024 to boost sales of its AtliQ-branded products.
+AtliQ Mart, a leading retail chain operating across Southern India, conducted promotional campaigns during Diwali and Sankranti  to boost sales of its AtliQ-branded products.
 
 The objective of this project was to evaluate campaign effectiveness and identify the promotions, products, categories, cities, and stores that contributed most to business performance.
 
